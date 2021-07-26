@@ -1,0 +1,44 @@
+{
+  "id": "9571bf87-b55d-4c6a-bf1c-e8cd9baeb1ee",
+  "parentId": "1a2c4f33-10bf-480a-aa97-9b1b711b85b5",
+  "rootParentId": "f69e9d26-e56e-4325-a284-90ae3e4f7216",
+  "name": "Default Welcome Intent - yes - yes",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-yes-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "ok WhiteHat Jr is India\u0027s #1 Live online 1:1 platform for coding and math. Kids learn logic, structure, sequence, and algorithmic thinking to generate creative outcomes like animations and apps. All classes are taught via a Live 1:1 Online platform connecting top certified teachers to children. do you want to book a class ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

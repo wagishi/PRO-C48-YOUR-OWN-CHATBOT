@@ -1,0 +1,40 @@
+{
+  "id": "13569c24-cbef-410e-aec3-40da77637f74",
+  "parentId": "62094d38-98c9-4980-9ad9-b66668de4ebe",
+  "rootParentId": "f69e9d26-e56e-4325-a284-90ae3e4f7216",
+  "name": "Default Welcome Intent - yes - no - no",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-no-followup",
+    "await_choice"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-no.DefaultWelcomeIntent-yes-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "okay if like my service so please rate me ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

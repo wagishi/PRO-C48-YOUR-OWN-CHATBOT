@@ -1,0 +1,40 @@
+{
+  "id": "1b0388df-efb8-4a27-be9a-4783aeeb28d8",
+  "parentId": "62094d38-98c9-4980-9ad9-b66668de4ebe",
+  "rootParentId": "f69e9d26-e56e-4325-a284-90ae3e4f7216",
+  "name": "Default Welcome Intent - yes - no - yes",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-no-followup",
+    "await_choice"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-no.DefaultWelcomeIntent-yes-no-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "so please say \"book a class\" ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

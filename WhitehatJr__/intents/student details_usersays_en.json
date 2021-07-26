@@ -1,0 +1,92 @@
+[
+  {
+    "id": "903381e9-bd6d-4e43-9542-12c7220e2b23",
+    "data": [
+      {
+        "text": "wagishi@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c9844da-d39b-460e-a038-9b2c845f9ff3",
+    "data": [
+      {
+        "text": "on monday and wednesday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4e2c4a2-a246-4bef-bd57-f0efe688a90c",
+    "data": [
+      {
+        "text": "3pm to 4pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62d3aa8f-d7a3-43a0-8746-b4e01c8310a0",
+    "data": [
+      {
+        "text": "indore",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eeac2ecd-d699-4f51-a191-e8ecaa9991ff",
+    "data": [
+      {
+        "text": "9158XXXXXX",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8b08394-b82c-4751-9e54-cc2bf0e85321",
+    "data": [
+      {
+        "text": "Adaya Singh",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "6cc1bafe-b7e7-4872-9a8b-9b8782f53bb1",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@Rate",
+        "alias": "Rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2a92330-9139-45a6-ac2e-0f99e9d214f2",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@Rate",
+        "alias": "Rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1386db9-b767-453b-ba60-24e3e41b4a2e",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@Rate",
+        "alias": "Rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c621fe6-bcc1-48f5-a775-b6fd6150908b",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@Rate",
+        "alias": "Rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad18bf6d-e265-4729-b7af-690e498930c5",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@Rate",
+        "alias": "Rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
